@@ -5,10 +5,10 @@ This is a proyect for the MIT xPro Professional Certificate in Coding.
 
 The goal of this exercise was to create a to-do app where you could write down your daily tasks and delete them when they were done.
 
-##Instalation
+## Instalation
 If you want to use this code, just download or clone this repository.
 
-##Files
+## Files
 index.html
 index.js
 todo.jsx
@@ -18,10 +18,10 @@ todoList.jsx
 todoTitle.jsx
 styles.css
 
-##Support
+## Support
 If you need any help just contact me by email: javier@javierbenavides.com
 
-##Lisence
+## Lisence
 MIT License
 
 Copyright (c) 2021 Javier Benavides
